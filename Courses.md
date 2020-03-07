@@ -1,4 +1,4 @@
-(---
+---
 layout: default
 title: University Courses
 nav_order: 2
