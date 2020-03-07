@@ -7,6 +7,8 @@ nav_order: 2
 ## Robotics
 * [MIT 6.832](http://underactuated.mit.edu/underactuated.html) Underactuated Robotics : Algorithms for Walking, Running, Swimming, Flying, and Manipulation. 
 
+* [CS223A](https://see.stanford.edu/Course/CS223A) Stanford Engineering Everywhere - Introduction to Robotics
+
 
 ## Deep Reinforcement Learning
 
@@ -14,4 +16,4 @@ nav_order: 2
 
 * [CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning, Decision Making, and Control.
 
-* [CS223A](https://see.stanford.edu/Course/CS223A) Stanford Engineering Everywhere - Introduction to Robotics
+
