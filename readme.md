@@ -12,8 +12,15 @@ Here you will find several resources on AI and robotics brought together by the 
 
 Thanks to the contributors :  
 <img src="utils/Katrin.png" width="32" height="32" alt="Katrin"/>
+
 <div class=" overlay-image _bj "><a href="URL_LIEN">
- <img class=" image _bk " src="utils/Katrin.png" alt="Alt text" />
- <div class=" text _q ">Image + texte
-  PAS DE HOVER</div>
+ <img class=" image _bk " src="utils/Katrin.png" width="32" height="32" alt="Alt text" />
+ <div class=" normal _bm ">
+  <div class=" text _q ">Image + texte
+   NORMAL</div>
+ </div>
+ <div class=" hover _bl ">
+  <div class=" text _q ">Background + texte
+   HOVER</div>
+ </div>
 </a></div>
