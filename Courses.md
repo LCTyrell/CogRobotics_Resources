@@ -1,4 +1,4 @@
----
+(---
 layout: default
 title: University Courses
 nav_order: 2
@@ -16,4 +16,4 @@ nav_order: 2
 
 * [CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning, Decision Making, and Control.
 
-
+* [Advanced Deep Learning & Reinforcement Learning DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - University College London
