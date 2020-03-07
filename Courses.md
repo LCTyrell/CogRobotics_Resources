@@ -1,4 +1,4 @@
-## Courses
+## University Courses
 
 ### Robotics
 * [MIT 6.832](http://underactuated.mit.edu/underactuated.html) Underactuated Robotics : Algorithms for Walking, Running, Swimming, Flying, and Manipulation. 
