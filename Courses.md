@@ -1,3 +1,5 @@
+## Courses
+
 ### Robotics
 * MIT 6.832: Underactuated Robotics : Algorithms for Walking, Running, Swimming, Flying, and Manipulation. http://underactuated.mit.edu/underactuated.html
 
