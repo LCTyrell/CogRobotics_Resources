@@ -14,4 +14,4 @@ nav_order: 2
 
 * [CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning, Decision Making, and Control.
 
-* [CS223A](https://see.stanford.edu/Course/CS223A) - Introduction to Robotics
+* [CS223A](https://see.stanford.edu/Course/CS223A) Stanford Engineering Everywhere - Introduction to Robotics
