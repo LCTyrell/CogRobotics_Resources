@@ -13,14 +13,10 @@ Here you will find several resources on AI and robotics brought together by the 
 Thanks to the contributors :  
 <img src="utils/Katrin.png" width="32" height="32" alt="Katrin"/>
 
-<div class=" overlay-image _bj "><a href="URL_LIEN">
- <img class=" image _bk " src="utils/Katrin.png" width="32" height="32" alt="Alt text" />
- <div class=" normal _bm ">
-  <div class=" text _q ">Image + texte
-   NORMAL</div>
- </div>
- <div class=" hover _bl ">
-  <div class=" text _q ">Background + texte
-   HOVER</div>
- </div>
-</a></div>
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
