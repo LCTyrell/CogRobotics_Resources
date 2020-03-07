@@ -2,3 +2,11 @@ remote_theme: pmarsceill/just-the-docs
 #color_scheme: "dark"
 
 title: Ai in Robotics - Resources
+
+---
+layout: default
+title: readme
+nav_order: 1
+---
+
+
