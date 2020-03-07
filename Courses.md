@@ -13,3 +13,5 @@ nav_order: 2
 * [MIT 6.S191](http://introtodeeplearning.com/2019/) Introduction to Deep Learning : MIT's introductory course on deep learning methods and applications. 
 
 * [CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning, Decision Making, and Control.
+
+* [CS223A](https://see.stanford.edu/Course/CS223A) - Introduction to Robotics
