@@ -3,7 +3,7 @@ layout: default
 title: University Courses
 nav_order: 2
 ---
-List of freely accessible online courses :  
+**List of freely accessible online courses :**  
 
 ## Robotics
 * [Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) - MIT. Algorithms for Walking, Running, Swimming, Flying, and Manipulation. 
