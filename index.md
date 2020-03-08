@@ -10,7 +10,8 @@ permalink: /
 
 Here you will find several resources on AI and robotics brought together by the AI_in_Robotics team.
 
-Thanks to the contributors :  
+Thanks to the contributors :
+  
 <img src="utils/Yosef_Guevara.png" width="32" height="32" alt=""/>  Yosef Guevara    
 <img src="utils/Vatsal_Shah.jpg" width="32" height="32" alt=""/>  Vatsal Shah  
 <img src="utils/Manuel_Belke.jpg" width="32" height="32" alt=""/>  Manuel Belke  
