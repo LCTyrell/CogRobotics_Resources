@@ -7,7 +7,7 @@ nav_order: 2
 ## Robotics
 * [Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) - MIT. Algorithms for Walking, Running, Swimming, Flying, and Manipulation. 
 
-* [CS223A](https://see.stanford.edu/Course/CS223A) Stanford Engineering Everywhere - Introduction to Robotics
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) - Stanford Engineering Everywhere. 
 
 
 ## Deep Reinforcement Learning
