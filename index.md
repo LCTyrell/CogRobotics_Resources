@@ -18,3 +18,5 @@ Thanks to the contributors :
 <img src="utils/Vatsal_Shah.jpg" width="32" height="32" alt=""/>  Vatsal Shah  
 <img src="utils/Manuel_Belke.jpg" width="32" height="32" alt=""/>  Manuel Belke  
 <img src="utils/Katrin.png" width="32" height="32" alt=""/>  Katrin  
+<img src="utils/Melodius_MJ.jpg" width="32" height="32" alt=""/>  Melodius_MJ
+<img src="utils/marcindulak.png" width="32" height="32" alt=""/>  Marcindulak 
