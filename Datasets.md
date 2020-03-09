@@ -12,6 +12,8 @@ nav_order: 6
 
 * [Ingredients for Robotics Research](https://openai.com/blog/ingredients-for-robotics-research/#requestsforresearchheredition) - OpenAI. We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. 
 
+* [Interactive Gibson Environment](http://svl.stanford.edu/gibson2/) - Large Scale Virtualized Interactive Environment for Learning Robot Manipulation and Navigation.
+
 ## Vision-Based Robotic Manipulation Datasets
 
 * [Multiview Pouring Dataset](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) - Google Brain. This dataset contains a variety of people pouring liquids into containers, taken from multiple angles, which can be used to learn representations of the abstract task of pouring for robot learning.
