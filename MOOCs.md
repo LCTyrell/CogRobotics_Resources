@@ -10,7 +10,7 @@ nav_order: 3
 
 * [QUT Robot Academy](https://robotacademy.net.au/) - University-level, short video lessons and full online courses to help you understand and prepare for this technology of the future.
 
-* [Spécialisation Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics) - Northwestern University/Coursera. The most important concepts in modern robotics. A study of the kinematics, dynamics, motion planning, and control of mobile robots and robot arms.
+* [Modern Robotics specialization: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics) - Northwestern University/Coursera. The most important concepts in modern robotics. A study of the kinematics, dynamics, motion planning, and control of mobile robots and robot arms.
 
 ## Deep Reinforcement Learning
 
