@@ -10,6 +10,7 @@ nav_order: 2
 
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) - Stanford Engineering Everywhere. 
 
+* [Robotics 1 & 2](https://www.youtube.com/user/asodemann3/playlists) - Arizona State University
 
 ## Deep Reinforcement Learning
 
