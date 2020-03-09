@@ -14,6 +14,8 @@ nav_order: 6
 
 * [Interactive Gibson Environment](http://svl.stanford.edu/gibson2/) - Stanford. Large Scale Virtualized Interactive Environment for Learning Robot Manipulation and Navigation.
 
+* [AI2-THOR](https://ai2thor.allenai.org/) is built and maintained by the Allen Institute for Artificial Intelligence. With a dedicated team of researchers and software engineers, the AI2-THOR project is uniquely positioned for long-term growth alongside a vibrant open-source development community.
+
 ## Vision-Based Robotic Manipulation Datasets
 
 * [Multiview Pouring Dataset](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) - Google Brain. This dataset contains a variety of people pouring liquids into containers, taken from multiple angles, which can be used to learn representations of the abstract task of pouring for robot learning.
