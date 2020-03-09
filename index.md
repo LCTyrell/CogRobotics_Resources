@@ -10,6 +10,8 @@ permalink: /
 <hr>
 Here you will find several resources on AI and robotics brought together by the AI_in_Robotics team.
 <hr>
+<img src="utils/ai_net.jpg" alt=""/>
+<hr>
 Thanks to the contributors :
   
 <img src="utils/Yosef_Guevara.png" width="32" height="32" alt=""/>  Yosef Guevara    
