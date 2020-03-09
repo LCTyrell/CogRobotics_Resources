@@ -16,6 +16,8 @@ nav_order: 6
 
 * [AI2-THOR](https://ai2thor.allenai.org/) is built and maintained by the Allen Institute for Artificial Intelligence. With a dedicated team of researchers and software engineers, the AI2-THOR project is uniquely positioned for long-term growth alongside a vibrant open-source development community.
 
+* [Habitat](https://aihabitat.org/) is a simulation platform for research in embodied artificial intelligence (AI).
+
 ## Vision-Based Robotic Manipulation Datasets
 
 * [Multiview Pouring Dataset](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) - Google Brain. This dataset contains a variety of people pouring liquids into containers, taken from multiple angles, which can be used to learn representations of the abstract task of pouring for robot learning.
