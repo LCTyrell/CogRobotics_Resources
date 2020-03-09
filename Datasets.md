@@ -14,9 +14,9 @@ nav_order: 6
 
 * [Interactive Gibson Environment](http://svl.stanford.edu/gibson2/) - Stanford. Large Scale Virtualized Interactive Environment for Learning Robot Manipulation and Navigation.
 
-* [AI2-THOR](https://ai2thor.allenai.org/) is built and maintained by the Allen Institute for Artificial Intelligence. With a dedicated team of researchers and software engineers, the AI2-THOR project is uniquely positioned for long-term growth alongside a vibrant open-source development community.
+* [AI2-THOR](https://ai2thor.allenai.org/) - Allen Institute for Artificial Intelligence. With a dedicated team of researchers and software engineers, the AI2-THOR project is uniquely positioned for long-term growth alongside a vibrant open-source development community.
 
-* [Habitat](https://aihabitat.org/) is a simulation platform for research in embodied artificial intelligence (AI).  Facebook AI Research.
+* [Habitat](https://aihabitat.org/) - Facebook AI Research. Simulation platform for research in embodied artificial intelligence (AI).  
 
 ## Vision-Based Robotic Manipulation Datasets
 
