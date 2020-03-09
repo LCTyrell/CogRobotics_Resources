@@ -12,7 +12,7 @@ Here you will find several resources on AI and robotics brought together by the 
 <hr>
 <img src="utils/ai_net.jpg" alt=""/>
 <hr>
-Thanks to the contributors :
+Thank you to the contributors :
  
 <img src="utils/Katrin.png" width="32" height="32" alt=""/>  Katrin    
 <img src="utils/Manuel_Belke.jpg" width="32" height="32" alt=""/>  Manuel Belke   
