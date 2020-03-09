@@ -10,6 +10,8 @@ nav_order: 3
 
 * [QUT Robot Academy](https://robotacademy.net.au/) - University-level, short video lessons and full online courses to help you understand and prepare for this technology of the future.
 
+* [Robotics 1 & 2](https://www.youtube.com/user/asodemann3/playlists) - Arizona State University
+
 ## Deep Reinforcement Learning
 
 * [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/index.html) - OpenAI. This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
