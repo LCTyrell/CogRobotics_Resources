@@ -12,7 +12,7 @@ nav_order: 6
 
 * [Ingredients for Robotics Research](https://openai.com/blog/ingredients-for-robotics-research/#requestsforresearchheredition) - OpenAI. We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. 
 
-* [Interactive Gibson Environment](http://svl.stanford.edu/gibson2/) - Large Scale Virtualized Interactive Environment for Learning Robot Manipulation and Navigation.
+* [Interactive Gibson Environment](http://svl.stanford.edu/gibson2/) - Stanford. Large Scale Virtualized Interactive Environment for Learning Robot Manipulation and Navigation.
 
 ## Vision-Based Robotic Manipulation Datasets
 
@@ -24,4 +24,4 @@ nav_order: 6
 
 * [RoboNet](https://www.robonet.wiki/) - The standard paradigm in robot learning is to set-up experiments in a single lab environment and train a robot from scratch from data collected in that setting. In contrast, essentially all machine learning fields accumulate and share large datasets across institutions, which enables training of models that generalize much more broadly. We aim to take a step in this direction by collecting a large dataset from 7 robot platforms across multiple institutions, which we call RoboNet. Critically, we find that pre-training on RoboNet enables us to generalize to entirely new robot platforms with less data than training from scratch.
 
-* [Dexterity Network (Dex-Net)](https://berkeleyautomation.github.io/dex-net/) - The Dexterity Network (Dex-Net) is a research project including code, datasets, and algorithms for generating datasets of synthetic point clouds, robot parallel-jaw grasps and metrics of grasp robustness based on physics for thousands of 3D object models to train machine learning-based methods to plan robot grasps. The broader goal of the Dex-Net project is to develop highly reliable robot grasping across a wide variety of rigid objects such as tools, household items, packaged goods, and industrial parts. 
+* [Dexterity Network (Dex-Net)](https://berkeleyautomation.github.io/dex-net/) - UC Berkeley. The Dexterity Network (Dex-Net) is a research project including code, datasets, and algorithms for generating datasets of synthetic point clouds, robot parallel-jaw grasps and metrics of grasp robustness based on physics for thousands of 3D object models to train machine learning-based methods to plan robot grasps. The broader goal of the Dex-Net project is to develop highly reliable robot grasping across a wide variety of rigid objects such as tools, household items, packaged goods, and industrial parts. 
