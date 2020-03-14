@@ -22,7 +22,7 @@ Off-policy reinforcement learning aims to leverage experience collected from pri
 
 * **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World (2017)**  
 Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel  
-[arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [video](https://sites.google.com/site/visuomotorpolicy/) / [project page](http://rll.berkeley.edu/deeplearningrobotics) / [code](http://rll.berkeley.edu/gps)
+[arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [project page](https://sites.google.com/view/domainrandomization/) / [code](https://github.com/montrealrobotics/domain-randomizer)
 
 ## Computer Vision
 
