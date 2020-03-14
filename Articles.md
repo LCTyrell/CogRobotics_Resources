@@ -24,7 +24,7 @@ Off-policy reinforcement learning aims to leverage experience collected from pri
 Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel  
 [arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [project page](https://sites.google.com/view/domainrandomization/) / [code](https://github.com/montrealrobotics/domain-randomizer)
 
-## Computer Vision
+## Object Detection and Pose Estimation for Robotics
 
 * **6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints (2019)**  
 Chen Wang, Roberto Martín-Martín, Danfei Xu, Jun Lv, Cewu Lu, Li Fei-Fei, Silvio Savarese, Yuke Zhu  
