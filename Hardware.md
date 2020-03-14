@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hardware Designs
+title: Robot Designs
 nav_order: 10
 ---
 
