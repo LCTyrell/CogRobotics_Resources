@@ -18,6 +18,12 @@ Aviral Kumar, Justin Fu, George Tucker, Sergey Levine
 [arXiv](https://arxiv.org/pdf/1906.00949.pdf) / [Slides](https://sites.google.com/view/bear-off-policyrl) / [project page](https://bair.berkeley.edu/blog/2019/12/05/bear/) / [code](https://github.com/aviralkumar2907/BEAR)  
 Off-policy reinforcement learning aims to leverage experience collected from prior policies for sample-efficient learning. However, in practice, commonly used off-policy approximate dynamic programming methods based on Q-learning and actor-critic methods are highly sensitive to the data distribution, and can make only limited progress without collecting additional on-policy data. As a step towards more robust off-policy algorithms, we study the setting where the off-policy experience is fixed and there is no further interaction with the environment.
 
+## Sim2Real Transfer for Robotics
+
+* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World (2017)**  
+Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel  
+[arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [video](https://sites.google.com/site/visuomotorpolicy/) / [project page](http://rll.berkeley.edu/deeplearningrobotics) / [code](http://rll.berkeley.edu/gps)
+
 ## Computer Vision
 
 * **6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints (2019)**  
