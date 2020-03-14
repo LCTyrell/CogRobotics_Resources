@@ -11,4 +11,4 @@ We're exploring how **to teach robots transferable skills**, by learning in para
 
 * [DeepMind](https://deepmind.com/) - We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all.
 
-* [Berkeley Artificial Intelligence Research (BAIR](https://bair.berkeley.edu/) - Brings together UC Berkeley researchers across the areas of computer vision, machine learning, natural language processing, planning, control, and robotics.
+* [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/) - Brings together UC Berkeley researchers across the areas of computer vision, machine learning, natural language processing, planning, control, and robotics.
