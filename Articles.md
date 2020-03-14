@@ -24,7 +24,7 @@ Off-policy reinforcement learning aims to leverage experience collected from pri
 Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel  
 [arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [project page](https://sites.google.com/view/domainrandomization/) / [code](https://github.com/montrealrobotics/domain-randomizer)
 
-* **Active Domain Randomization (2019)**
+* **Active Domain Randomization (2019)**  
 Bhairav Mehta, Manfred Diaz, Florian Golemo, Christopher J. Pal, Liam Paull    
 [arXiv](https://arxiv.org/pdf/1703.06907.pdf) / [code](https://github.com/montrealrobotics/active-domainrand)
 
