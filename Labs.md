@@ -10,3 +10,5 @@ nav_order: 9
 We're exploring how **to teach robots transferable skills**, by learning in parallel across many manipulation arms in our one-of-a-kind lab purpose-built for machine learning research.
 
 * [DeepMind](https://deepmind.com/) - We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all.
+
+* [Berkeley Artificial Intelligence Research (BAIR](https://bair.berkeley.edu/) - Brings together UC Berkeley researchers across the areas of computer vision, machine learning, natural language processing, planning, control, and robotics.
