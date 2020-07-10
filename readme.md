@@ -1,1 +1,1 @@
-Resources on AI in Robotics. Go to : https://oldm0nk3y.github.io/Resources_AI_in_Robotics/
+Resources on AI in Robotics. Go to : https://LCTyrell.github.io/Resources_in_NeuroRobotics/
