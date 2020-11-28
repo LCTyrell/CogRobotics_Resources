@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "foo"
 
-title: Neurorobotics
+title: CogRobotics
 
 ---
 layout: default
