@@ -8,8 +8,8 @@ permalink: /
 
 ## Neurorobotics resources
 <hr>
-Resources on AI, Robotics, Neurocomputation, Cognitive Neurorobotics, ...
-<hr>
 <img src="utils/ai_net.jpg" alt=""/>
+<hr>
+Resources on AI, Robotics, Neurocomputation, Cognitive Robotics, Neurorobotics, ...
 <hr>
  
