@@ -1,1 +1,1 @@
-NeuroRobotics Resources: [Here](https://LCTyrell.github.io/CogRobotics_Resources)
+CogRobotics Resources: [Here](https://LCTyrell.github.io/CogRobotics_Resources)
