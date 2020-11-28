@@ -6,7 +6,7 @@ description: Resources on AI, Robotics, Neurocomputation, Cognitive Neurorobotic
 permalink: /
 ---
 
-## Neurorobotics resources
+## Cognitive robotics resources
 <hr>
 <img src="utils/ai_net.jpg" alt=""/>
 <hr>
