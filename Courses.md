@@ -5,6 +5,9 @@ nav_order: 2
 ---
 **List of freely accessible online courses :**  
 
+## Cognitive Robotics
+* [Cognitive Robotics](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016) -MIT. This is a class about applying autonomy to real-world systems. The overarching theme uniting the many different topics in this course will center around programming a cognitive robotic.  
+
 ## Robotics
 * [Underactuated Robotics](http://underactuated.mit.edu/underactuated.html) - MIT. Algorithms for Walking, Running, Swimming, Flying, and Manipulation. 
 
